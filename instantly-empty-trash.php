@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name:    Instantly Empty Trash
- * Description:    Instantly empty trash for post & pages
+ * Plugin Name:    WP Skip Trash
+ * Description:    Permanently delete items when trashed.
  * Version:        1.0
  * Author:         Joseph Fusco
  * Author URI:     http://josephfus.co/
